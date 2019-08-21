@@ -18,4 +18,11 @@ Modules group components together. An angular app has at least the root module. 
   - manually
   - Angular CLI
 
+## App structure
+- src/app: source code
+- package.json: app dependencies (use "npm install" to install these libraries); if cert error use "npm config set registry http://registry.npmjs.org/" first, then "install"
+
+npm start: start the app
+
+
 Progress: 
