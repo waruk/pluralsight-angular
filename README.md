@@ -27,4 +27,4 @@ Angular uses ES2015 modules. Angular modules are different than ES modules. They
 
 # Components
 
-Progress: Bootstrapping our app component
+Progress: Templates, interpolation and directives
